@@ -1,6 +1,4 @@
 # MiniPacmanDQN
 Deep Reinforcement Learning with Pacman
 
-
-
-[![Watch the video]()](pacman.mp4)
+[![Demo](https://github.com/eitrheim/MiniPacmanDQN/pacman.mp4)](https://github.com/eitrheim/MiniPacmanDQN/pacman.png)
